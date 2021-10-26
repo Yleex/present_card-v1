@@ -5,8 +5,9 @@
     border-top: 15px;
 }
 .card{
-    border-radius: 25px;
-    background: rgb(253, 237, 210);
+    background: rgb(253, 244, 229);
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 30px;
     height: 600px;
     overflow: hidden;
     text-align: center;
