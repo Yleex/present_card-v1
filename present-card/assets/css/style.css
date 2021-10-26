@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-top: 15px;
+}
+.card{
+    border-radius: 25px;
+    background: rgb(253, 237, 210);
+    height: 600px;
+    overflow: hidden;
+    text-align: center;
+    width: 400px;
+}
+.cover{
+    width: 100%;
+}
+.perfil{
+    border: 5px solid #fff;
+    border-radius: 100px;
+    margin-top: -80px;
+    width: 40%;
+}
+h1{
+    font-size: xx-large;
+}
+p{
+    font-size: 18px;
+}
+.container_ico{
+    display: flex;
+    justify-content: space-around;
+}
+.ico{
+    width: 38px;
+    
+}
+.icos{
+    width: 30%;
+}
